@@ -1,0 +1,125 @@
+{
+  "platform": "Windows",
+  "icon": "Monitor",
+  "categories": [
+    {
+      "name": "Navegadores",
+      "programs": [
+        {
+          "id": "chrome",
+          "name": "Google Chrome",
+          "description": "Navegador rápido e seguro do Google",
+          "version": "120.0",
+          "size": "89 MB",
+          "downloadUrl": "https://www.google.com/chrome/",
+          "icon": "🌐"
+        },
+        {
+          "id": "firefox",
+          "name": "Mozilla Firefox",
+          "description": "Navegador open-source focado em privacidade",
+          "version": "121.0",
+          "size": "55 MB",
+          "downloadUrl": "https://www.mozilla.org/firefox/",
+          "icon": "🦊"
+        },
+        {
+          "id": "brave",
+          "name": "Brave Browser",
+          "description": "Navegador com bloqueador de anúncios integrado",
+          "version": "1.61",
+          "size": "102 MB",
+          "downloadUrl": "https://brave.com/",
+          "icon": "🦁"
+        }
+      ]
+    },
+    {
+      "name": "Desenvolvimento",
+      "programs": [
+        {
+          "id": "vscode",
+          "name": "Visual Studio Code",
+          "description": "Editor de código leve e poderoso",
+          "version": "1.85",
+          "size": "95 MB",
+          "downloadUrl": "https://code.visualstudio.com/",
+          "icon": "💻"
+        },
+        {
+          "id": "git",
+          "name": "Git",
+          "description": "Sistema de controle de versão distribuído",
+          "version": "2.43",
+          "size": "52 MB",
+          "downloadUrl": "https://git-scm.com/",
+          "icon": "📦"
+        },
+        {
+          "id": "nodejs",
+          "name": "Node.js",
+          "description": "Runtime JavaScript para servidor",
+          "version": "20.10 LTS",
+          "size": "32 MB",
+          "downloadUrl": "https://nodejs.org/",
+          "icon": "🟢"
+        }
+      ]
+    },
+    {
+      "name": "Utilitários",
+      "programs": [
+        {
+          "id": "7zip",
+          "name": "7-Zip",
+          "description": "Compactador de arquivos gratuito",
+          "version": "23.01",
+          "size": "1.5 MB",
+          "downloadUrl": "https://www.7-zip.org/",
+          "icon": "📁"
+        },
+        {
+          "id": "vlc",
+          "name": "VLC Media Player",
+          "description": "Reprodutor multimídia universal",
+          "version": "3.0.20",
+          "size": "42 MB",
+          "downloadUrl": "https://www.videolan.org/vlc/",
+          "icon": "🎬"
+        },
+        {
+          "id": "notepadpp",
+          "name": "Notepad++",
+          "description": "Editor de texto avançado para Windows",
+          "version": "8.6",
+          "size": "4.5 MB",
+          "downloadUrl": "https://notepad-plus-plus.org/",
+          "icon": "📝"
+        }
+      ]
+    },
+    {
+      "name": "Segurança",
+      "programs": [
+        {
+          "id": "bitwarden",
+          "name": "Bitwarden",
+          "description": "Gerenciador de senhas open-source",
+          "version": "2024.1",
+          "size": "120 MB",
+          "downloadUrl": "https://bitwarden.com/",
+          "icon": "🔐"
+        },
+        {
+          "id": "malwarebytes",
+          "name": "Malwarebytes",
+          "description": "Anti-malware premium",
+          "version": "4.6",
+          "size": "280 MB",
+          "downloadUrl": "https://www.malwarebytes.com/",
+          "icon": "🛡️"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "platform": "Linux",
+  "icon": "Terminal",
+  "categories": [
+    {
+      "name": "Navegadores",
+      "programs": [
+        {
+          "id": "firefox-linux",
+          "name": "Mozilla Firefox",
+          "description": "Navegador padrão em muitas distros",
+          "version": "121.0",
+          "size": "60 MB",
+          "downloadUrl": "https://www.mozilla.org/firefox/",
+          "installCommand": "sudo apt install firefox",
+          "icon": "🦊"
+        },
+        {
+          "id": "chromium",
+          "name": "Chromium",
+          "description": "Versão open-source do Chrome",
+          "version": "120.0",
+          "size": "85 MB",
+          "downloadUrl": "https://www.chromium.org/",
+          "installCommand": "sudo apt install chromium-browser",
+          "icon": "🌐"
+        }
+      ]
+    },
+    {
+      "name": "Desenvolvimento",
+      "programs": [
+        {
+          "id": "vscode-linux",
+          "name": "Visual Studio Code",
+          "description": "Editor de código da Microsoft",
+          "version": "1.85",
+          "size": "95 MB",
+          "downloadUrl": "https://code.visualstudio.com/",
+          "installCommand": "sudo snap install code --classic",
+          "icon": "💻"
+        },
+        {
+          "id": "docker",
+          "name": "Docker",
+          "description": "Plataforma de containerização",
+          "version": "24.0",
+          "size": "250 MB",
+          "downloadUrl": "https://www.docker.com/",
+          "installCommand": "sudo apt install docker.io",
+          "icon": "🐳"
+        },
+        {
+          "id": "vim",
+          "name": "Vim",
+          "description": "Editor de texto avançado para terminal",
+          "version": "9.0",
+          "size": "15 MB",
+          "downloadUrl": "https://www.vim.org/",
+          "installCommand": "sudo apt install vim",
+          "icon": "📗"
+        }
+      ]
+    },
+    {
+      "name": "Utilitários",
+      "programs": [
+        {
+          "id": "htop",
+          "name": "htop",
+          "description": "Monitor de processos interativo",
+          "version": "3.3",
+          "size": "500 KB",
+          "downloadUrl": "https://htop.dev/",
+          "installCommand": "sudo apt install htop",
+          "icon": "📊"
+        },
+        {
+          "id": "neofetch",
+          "name": "Neofetch",
+          "description": "Exibe informações do sistema com estilo",
+          "version": "7.1",
+          "size": "200 KB",
+          "downloadUrl": "https://github.com/dylanaraps/neofetch",
+          "installCommand": "sudo apt install neofetch",
+          "icon": "🖥️"
+        },
+        {
+          "id": "gimp",
+          "name": "GIMP",
+          "description": "Editor de imagens profissional",
+          "version": "2.10",
+          "size": "300 MB",
+          "downloadUrl": "https://www.gimp.org/",
+          "installCommand": "sudo apt install gimp",
+          "icon": "🎨"
+        }
+      ]
+    },
+    {
+      "name": "Multimídia",
+      "programs": [
+        {
+          "id": "vlc-linux",
+          "name": "VLC",
+          "description": "Reprodutor multimídia completo",
+          "version": "3.0.20",
+          "size": "45 MB",
+          "downloadUrl": "https://www.videolan.org/",
+          "installCommand": "sudo apt install vlc",
+          "icon": "🎬"
+        },
+        {
+          "id": "obs",
+          "name": "OBS Studio",
+          "description": "Gravação e streaming profissional",
+          "version": "30.0",
+          "size": "180 MB",
+          "downloadUrl": "https://obsproject.com/",
+          "installCommand": "sudo apt install obs-studio",
+          "icon": "📹"
+        }
+      ]
+    }
+  ]
+}
