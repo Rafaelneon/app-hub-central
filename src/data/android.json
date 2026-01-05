@@ -1,0 +1,116 @@
+{
+  "platform": "Android",
+  "icon": "Smartphone",
+  "categories": [
+    {
+      "name": "Redes Sociais",
+      "programs": [
+        {
+          "id": "telegram",
+          "name": "Telegram",
+          "description": "Mensageiro rápido e seguro",
+          "version": "10.5",
+          "size": "45 MB",
+          "downloadUrl": "https://play.google.com/store/apps/details?id=org.telegram.messenger",
+          "icon": "✈️"
+        },
+        {
+          "id": "signal",
+          "name": "Signal",
+          "description": "Mensagens criptografadas de ponta a ponta",
+          "version": "6.40",
+          "size": "50 MB",
+          "downloadUrl": "https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms",
+          "icon": "💬"
+        }
+      ]
+    },
+    {
+      "name": "Produtividade",
+      "programs": [
+        {
+          "id": "notion",
+          "name": "Notion",
+          "description": "Workspace all-in-one",
+          "version": "0.6.1200",
+          "size": "35 MB",
+          "downloadUrl": "https://play.google.com/store/apps/details?id=notion.id",
+          "icon": "📋"
+        },
+        {
+          "id": "todoist",
+          "name": "Todoist",
+          "description": "Gerenciador de tarefas",
+          "version": "10.0",
+          "size": "25 MB",
+          "downloadUrl": "https://play.google.com/store/apps/details?id=com.todoist",
+          "icon": "✅"
+        },
+        {
+          "id": "obsidian",
+          "name": "Obsidian",
+          "description": "Notas em Markdown com links",
+          "version": "1.5",
+          "size": "40 MB",
+          "downloadUrl": "https://play.google.com/store/apps/details?id=md.obsidian",
+          "icon": "💎"
+        }
+      ]
+    },
+    {
+      "name": "Desenvolvimento",
+      "programs": [
+        {
+          "id": "termux",
+          "name": "Termux",
+          "description": "Terminal Linux para Android",
+          "version": "0.118",
+          "size": "100 MB",
+          "downloadUrl": "https://f-droid.org/packages/com.termux/",
+          "icon": "🖥️"
+        },
+        {
+          "id": "acode",
+          "name": "Acode",
+          "description": "Editor de código mobile",
+          "version": "1.9",
+          "size": "15 MB",
+          "downloadUrl": "https://play.google.com/store/apps/details?id=com.foxdebug.acodefree",
+          "icon": "💻"
+        }
+      ]
+    },
+    {
+      "name": "Utilitários",
+      "programs": [
+        {
+          "id": "sdmaid",
+          "name": "SD Maid",
+          "description": "Limpador de sistema avançado",
+          "version": "5.5",
+          "size": "20 MB",
+          "downloadUrl": "https://play.google.com/store/apps/details?id=eu.thedarken.sdm",
+          "icon": "🧹"
+        },
+        {
+          "id": "newpipe",
+          "name": "NewPipe",
+          "description": "Cliente YouTube leve sem ads",
+          "version": "0.26",
+          "size": "10 MB",
+          "downloadUrl": "https://newpipe.net/",
+          "icon": "📺"
+        },
+        {
+          "id": "bitwarden-android",
+          "name": "Bitwarden",
+          "description": "Gerenciador de senhas",
+          "version": "2024.1",
+          "size": "30 MB",
+          "downloadUrl": "https://play.google.com/store/apps/details?id=com.x8bit.bitwarden",
+          "icon": "🔐"
+        }
+      ]
+    }
+  ]
+}

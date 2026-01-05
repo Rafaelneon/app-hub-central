@@ -13,6 +13,10 @@ export default {
       },
     },
     extend: {
+      fontFamily: {
+        sans: ['Inter', 'system-ui', 'sans-serif'],
+        mono: ['JetBrains Mono', 'monospace'],
+      },
       colors: {
         border: "hsl(var(--border))",
         input: "hsl(var(--input))",
@@ -57,6 +61,10 @@ export default {
           border: "hsl(var(--sidebar-border))",
           ring: "hsl(var(--sidebar-ring))",
         },
+        windows: "hsl(var(--windows))",
+        linux: "hsl(var(--linux))",
+        android: "hsl(var(--android))",
+        iso: "hsl(var(--iso))",
       },
       borderRadius: {
         lg: "var(--radius)",

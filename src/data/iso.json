@@ -1,0 +1,134 @@
+{
+  "platform": "ISOs",
+  "icon": "Disc",
+  "categories": [
+    {
+      "name": "Linux Desktop",
+      "programs": [
+        {
+          "id": "ubuntu",
+          "name": "Ubuntu 22.04 LTS",
+          "description": "Distro Linux mais popular para desktop",
+          "version": "22.04.3",
+          "size": "4.7 GB",
+          "downloadUrl": "https://ubuntu.com/download/desktop",
+          "icon": "🟠"
+        },
+        {
+          "id": "fedora",
+          "name": "Fedora Workstation",
+          "description": "Distro com tecnologias de ponta",
+          "version": "39",
+          "size": "2.1 GB",
+          "downloadUrl": "https://fedoraproject.org/",
+          "icon": "🔵"
+        },
+        {
+          "id": "mint",
+          "name": "Linux Mint",
+          "description": "Interface familiar para ex-usuários Windows",
+          "version": "21.3",
+          "size": "2.8 GB",
+          "downloadUrl": "https://linuxmint.com/",
+          "icon": "🟢"
+        },
+        {
+          "id": "arch",
+          "name": "Arch Linux",
+          "description": "Distro minimalista para avançados",
+          "version": "2024.01",
+          "size": "900 MB",
+          "downloadUrl": "https://archlinux.org/",
+          "icon": "🔷"
+        },
+        {
+          "id": "pop",
+          "name": "Pop!_OS",
+          "description": "Ideal para desenvolvedores e gamers",
+          "version": "22.04",
+          "size": "2.5 GB",
+          "downloadUrl": "https://pop.system76.com/",
+          "icon": "🚀"
+        }
+      ]
+    },
+    {
+      "name": "Servidor",
+      "programs": [
+        {
+          "id": "ubuntu-server",
+          "name": "Ubuntu Server",
+          "description": "Servidor LTS estável",
+          "version": "22.04.3",
+          "size": "1.4 GB",
+          "downloadUrl": "https://ubuntu.com/download/server",
+          "icon": "🖧"
+        },
+        {
+          "id": "debian",
+          "name": "Debian",
+          "description": "Estabilidade máxima para servidores",
+          "version": "12.4",
+          "size": "628 MB",
+          "downloadUrl": "https://www.debian.org/",
+          "icon": "🔴"
+        },
+        {
+          "id": "rocky",
+          "name": "Rocky Linux",
+          "description": "Substituto do CentOS para enterprise",
+          "version": "9.3",
+          "size": "1.8 GB",
+          "downloadUrl": "https://rockylinux.org/",
+          "icon": "🏔️"
+        }
+      ]
+    },
+    {
+      "name": "Segurança",
+      "programs": [
+        {
+          "id": "kali",
+          "name": "Kali Linux",
+          "description": "Distro para pentest e segurança",
+          "version": "2024.1",
+          "size": "3.8 GB",
+          "downloadUrl": "https://www.kali.org/",
+          "icon": "🐉"
+        },
+        {
+          "id": "tails",
+          "name": "Tails",
+          "description": "Sistema amnésico para privacidade",
+          "version": "6.0",
+          "size": "1.3 GB",
+          "downloadUrl": "https://tails.net/",
+          "icon": "🔒"
+        }
+      ]
+    },
+    {
+      "name": "Recuperação",
+      "programs": [
+        {
+          "id": "clonezilla",
+          "name": "Clonezilla",
+          "description": "Clonagem de discos e partições",
+          "version": "3.1",
+          "size": "380 MB",
+          "downloadUrl": "https://clonezilla.org/",
+          "icon": "💾"
+        },
+        {
+          "id": "gparted",
+          "name": "GParted Live",
+          "description": "Gerenciador de partições bootável",
+          "version": "1.6",
+          "size": "500 MB",
+          "downloadUrl": "https://gparted.org/",
+          "icon": "🔧"
+        }
+      ]
+    }
+  ]
+}
